@@ -1,6 +1,6 @@
-animals = ['dog', 'cat']
-foods = ['coffee', 'water']
-plants = ['cactus', 'rose']
+animals = ['dog', 'cat', 'hamster']
+foods = ['coffee', 'water','ramen']
+plants = ['cactus', 'rose',]
 
 
 
